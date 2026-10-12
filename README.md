@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 ## Memoization
 |  |
