@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
