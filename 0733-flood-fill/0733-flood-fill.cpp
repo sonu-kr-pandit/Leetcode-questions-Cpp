@@ -18,7 +18,7 @@ public:
             dfs(row,col-1,n,m,image,vis,newcolor,oldcolor);
         }
         //right
-         if(col+1>=0 && !vis[row][col+1] && image[row][col+1]== oldcolor){
+         if(col+1 < m && !vis[row][col+1] && image[row][col+1]== oldcolor){
             dfs(row,col+1,n,m,image,vis,newcolor,oldcolor);
         }
 
