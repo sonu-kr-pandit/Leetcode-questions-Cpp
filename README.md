@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
