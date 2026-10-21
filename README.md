@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
