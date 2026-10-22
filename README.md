@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
