@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
