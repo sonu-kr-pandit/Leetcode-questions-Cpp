@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
+| [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2235-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
