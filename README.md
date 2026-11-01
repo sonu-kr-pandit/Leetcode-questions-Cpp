@@ -157,9 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
