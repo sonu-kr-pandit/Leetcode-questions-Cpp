@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
+| [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 ## Backtracking
 |  |
 | ------- |
