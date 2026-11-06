@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2833-furthest-point-from-origin) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
