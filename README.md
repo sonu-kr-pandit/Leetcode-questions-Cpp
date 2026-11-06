@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
 ## Queue
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2574-left-and-right-sum-differences) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
