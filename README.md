@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2833-furthest-point-from-origin](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2833-furthest-point-from-origin) |
 ## Backtracking
 |  |
 | ------- |
