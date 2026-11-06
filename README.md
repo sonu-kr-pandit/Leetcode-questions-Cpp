@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1672-richest-customer-wealth) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
