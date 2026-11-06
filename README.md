@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [1470-shuffle-the-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1672-richest-customer-wealth) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
+| [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Backtracking
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2469-convert-the-temperature) |
