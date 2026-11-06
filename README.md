@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0162-find-peak-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
