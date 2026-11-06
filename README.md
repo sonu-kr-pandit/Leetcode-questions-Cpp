@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
