@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
