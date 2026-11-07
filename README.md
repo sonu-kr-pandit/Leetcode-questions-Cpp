@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0002-add-two-numbers) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2413-smallest-even-multiple) |
@@ -210,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
