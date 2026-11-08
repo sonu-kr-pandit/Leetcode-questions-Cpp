@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1137-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1137-n-th-tribonacci-number) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2413-smallest-even-multiple) |
