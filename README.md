@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [1470-shuffle-the-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1528-shuffle-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1137-n-th-tribonacci-number) |
 ## Trie
 |  |
