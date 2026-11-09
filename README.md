@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
