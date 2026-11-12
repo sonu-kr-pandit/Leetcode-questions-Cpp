@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0200-number-of-islands) |
+| [0643-maximum-average-subarray-i](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
