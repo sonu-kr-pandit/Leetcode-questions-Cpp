@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
