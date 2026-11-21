@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0424-longest-repeating-character-replacement) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0643-maximum-average-subarray-i) |
