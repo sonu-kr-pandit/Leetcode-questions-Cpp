@@ -16,12 +16,14 @@ public:
             slow = slow->next;
             fast = fast->next->next;
            if (slow == fast) {
-                ListNode* temp = head;
-                while (temp != slow) {
-                    temp = temp->next;
+                // ListNode* temp = head;
+                slow = head;
+                while (slow != fast) {
+                    // temp = temp->next;
                     slow = slow->next;
+                    fast = fast->next;
                 }
-                return temp;
+                return slow;
             }
 
         }
