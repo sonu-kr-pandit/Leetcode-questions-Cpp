@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1528-shuffle-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sonu-kr-pandit/Leetcode-questions-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
